@@ -1,4 +1,4 @@
-﻿Postal District,Postal Sector - (1st 2 digits of 6-digit postal codes),General Location
+PostalDistrict,PostalSector,Location
 "01","01, 02, 03, 04, 05, 06","Raffles Place, Cecil, Marina, People's Park"
 "02","07, 08","Anson, Tanjong Pagar"
 "03","14,15, 16","Queenstown, Tiong Bahru"
